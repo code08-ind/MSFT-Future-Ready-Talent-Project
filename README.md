@@ -7,8 +7,13 @@ This is a static React JS application which focusses on an API Fetching site whe
 📌Deployed URL
 https://wonderful-ocean-0f3c8c200.1.azurestaticapps.net/
 
-[!Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(1).png?raw=true)
-[!Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(3).png?raw=true)
-[!Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(4).png?raw=true)
-[!Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(6).png?raw=true)
-[!Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(8).png?raw=true)
+<br/>
+![Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(1).png?raw=true)
+<br/>
+![Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(3).png?raw=true)
+<br/>
+![Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(4).png?raw=true)
+<br/>
+![Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(6).png?raw=true)
+<br/>
+![Imagepic](https://github.com/code08-ind/HackClub-NITJ/blob/main/2022-03-14%20(8).png?raw=true)
