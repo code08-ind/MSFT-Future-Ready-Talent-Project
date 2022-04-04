@@ -4,13 +4,13 @@
 
 This is a static React JS application which focusses on an API Fetching site where we can take the various cocktails and various details regarding it which is built using React JS, CSS And JavaScript &amp; deployed on Microsoft Azure. In Addition, Project is  built under Microsoft Future Ready Talent Programme.
 
-### What Is Tech Stack Used?
+## 📌What Is Tech Stack Used?
 It Makes Use Of React JS, CSS And Microsoft Azure.
 
-### Outcomes Of Project:
+## 📌Outcomes Of Project:
 Here In See The Project Is An App That Is A Cocktail Finder Application Made With The Help Of React JS And JavaScript.
 
-### Vision Of Project:
+## 📌Vision Of Project:
 The Vision Of Project Is To Make A Mobile App Where We Can Create A RSS Feed.
 
 ## 📌Deployed URL
